@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hammadshaikh" target="blank"><img src="https://img.shields.io/twitter/follow/hammadshaikh?logo=twitter&style=for-the-badge" alt="hammadshaikh" /></a> </p>
 
-- 🔭 I’m currently working on **Travello Web**
+- 🔭 I’m currently working on **Design projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node js express js mongodb database**
 
 - 💬 Ask me about **Web, MERN**
 
