@@ -1,25 +1,16 @@
 # 💫 Hi 👋, I'm Hammad Shaikh  
 ### A passionate Frontend Developer | Next.js Expert | From Pakistan  
 
-📧 Email Me: ✉ hammadyounus.508@gmail.com  
-🌐 Portfolio: [https://hammad-devs.vercel.app/](https://hammad-devs.vercel.app/)  
+<div align="center"> <a href="https://hammad-devs.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="mailto:hammadyounus.508@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://linkedin.com/in/yourusername" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </div>
+🎨 About Me
+"I turn coffee into clean, pixel-perfect interfaces." ☕ → 💻
 
-### Let's Collaborate!  
-Reach out for projects, opportunities, or just to chat about tech. 😊  
+Passionate Frontend Developer with an eye for design and a love for Next.js. I build fast, intuitive, and beautiful web experiences that users adore.
 
-## 🛠️ Tech Stack  
-- ⚡ Next.js | React.js | TypeScript  
-- 🎨 Tailwind CSS | CSS Modules | Framer Motion  
-- 🚀 Vercel | Netlify | CI/CD  
-- 🔥 Firebase | Supabase  
+🔹 Currently: Crafting magic at [Config Labs] (or your workplace)
+🔹 Fun Fact: I judge websites by their fonts. Helvetica fan. 😎
 
-## 🌟 Featured Projects  
-Check out my portfolio for my latest work → [View Portfolio](https://hammad-devs.vercel.app/)  
 
-## 📫 How to reach me  
-📧 hammadyounus.508@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) (replace with actual link)  
-🐦 [Twitter](https://twitter.com/yourhandle) (replace if applicable)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hammad-shaikh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_theycallmehammadii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-shaikh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hammadyounus.508@gmail.com) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/hammad-shaikh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CodeLife05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadyounus.508@gmail.com) 
