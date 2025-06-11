@@ -1,3 +1,25 @@
+# 💫 Hi 👋, I'm Hammad Shaikh  
+### A passionate Frontend Developer | Next.js Expert | From Pakistan  
+
+📧 Email Me: ✉ hammadyounus.508@gmail.com  
+🌐 Portfolio: [https://hammad-devs.vercel.app/](https://hammad-devs.vercel.app/)  
+
+### Let's Collaborate!  
+Reach out for projects, opportunities, or just to chat about tech. 😊  
+
+## 🛠️ Tech Stack  
+- ⚡ Next.js | React.js | TypeScript  
+- 🎨 Tailwind CSS | CSS Modules | Framer Motion  
+- 🚀 Vercel | Netlify | CI/CD  
+- 🔥 Firebase | Supabase  
+
+## 🌟 Featured Projects  
+Check out my portfolio for my latest work → [View Portfolio](https://hammad-devs.vercel.app/)  
+
+## 📫 How to reach me  
+📧 hammadyounus.508@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) (replace with actual link)  
+🐦 [Twitter](https://twitter.com/yourhandle) (replace if applicable)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hammad-shaikh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_theycallmehammadii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-shaikh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hammadyounus.508@gmail.com) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/hammad-shaikh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CodeLife05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadyounus.508@gmail.com) 
